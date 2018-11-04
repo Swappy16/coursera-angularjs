@@ -23,24 +23,24 @@ function ShoppingListService() {
   // List of shopping items
   var items = [
     {
-      name: "Energy Bars",
-      quantity: "2"
-    },
-    {
-      name: "Donuts",
-      quantity: "200"
-    },
-    {
-      name: "Cakes",
+      name: "Coffee",
       quantity: "10"
     },
     {
-      name: "Cookies",
-      quantity: "300"
+      name: "Milk",
+      quantity: "5"
     },
     {
-      name: "Chocolate Bars",
-      quantity: "5"
+      name: "Sugar",
+      quantity: "12"
+    },
+    {
+      name: "Cookies",
+      quantity: "20"
+    },
+    {
+      name: "Lays",
+      quantity: "16"
     }
   ];
   var items2 = [];
